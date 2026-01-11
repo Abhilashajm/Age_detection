@@ -1,0 +1,7 @@
+pre download requirements
+
+pip install opencv-python
+pip install numpy
+pip install deepface        
+pip install tensorflow      
+pip install psutil
